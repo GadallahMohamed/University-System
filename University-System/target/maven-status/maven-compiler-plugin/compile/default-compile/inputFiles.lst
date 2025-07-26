@@ -1,0 +1,16 @@
+D:\java projects\University-System\src\main\java\com\example\University\System\controller\CourseController.java
+D:\java projects\University-System\src\main\java\com\example\University\System\controller\InstructorController.java
+D:\java projects\University-System\src\main\java\com\example\University\System\controller\StudentController.java
+D:\java projects\University-System\src\main\java\com\example\University\System\model\Course.java
+D:\java projects\University-System\src\main\java\com\example\University\System\model\Instructor.java
+D:\java projects\University-System\src\main\java\com\example\University\System\model\Student.java
+D:\java projects\University-System\src\main\java\com\example\University\System\repo\CourseRepo.java
+D:\java projects\University-System\src\main\java\com\example\University\System\repo\InstructorRepo.java
+D:\java projects\University-System\src\main\java\com\example\University\System\repo\StudentRepo.java
+D:\java projects\University-System\src\main\java\com\example\University\System\service\CourseService.java
+D:\java projects\University-System\src\main\java\com\example\University\System\service\Impl\CourseServiceImpl.java
+D:\java projects\University-System\src\main\java\com\example\University\System\service\Impl\InstructorServiceImpl.java
+D:\java projects\University-System\src\main\java\com\example\University\System\service\Impl\StudentServiceImpl.java
+D:\java projects\University-System\src\main\java\com\example\University\System\service\InstructorService.java
+D:\java projects\University-System\src\main\java\com\example\University\System\service\StudentService.java
+D:\java projects\University-System\src\main\java\com\example\University\System\UniversitySystemApplication.java

@@ -1,0 +1,16 @@
+com\example\University\System\model\Student.class
+com\example\University\System\service\StudentService.class
+com\example\University\System\service\Impl\StudentServiceImpl.class
+com\example\University\System\model\Instructor.class
+com\example\University\System\repo\CourseRepo.class
+com\example\University\System\repo\InstructorRepo.class
+com\example\University\System\service\CourseService.class
+com\example\University\System\controller\InstructorController.class
+com\example\University\System\model\Course.class
+com\example\University\System\controller\CourseController.class
+com\example\University\System\service\Impl\CourseServiceImpl.class
+com\example\University\System\service\Impl\InstructorServiceImpl.class
+com\example\University\System\controller\StudentController.class
+com\example\University\System\service\InstructorService.class
+com\example\University\System\UniversitySystemApplication.class
+com\example\University\System\repo\StudentRepo.class
